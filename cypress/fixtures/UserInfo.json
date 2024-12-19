@@ -1,0 +1,21 @@
+{
+    "PersonalInfo": {
+        "FullName": ". zoo zoo",
+        "name": "zoo",
+        "address": "new castle DE 12345",
+        "country": "India",
+        "phone": "12365767534",
+        "email": "zoo@gmail.com"
+    },
+    "PaymentCredential": {
+        "CardHolder": "Zoo Zoo",
+        "CardNumber": "12345678",
+        "CVC": "123",
+        "ExpireMonth": "12",
+        "ExpireYear": "25"
+    },
+    "Authorization":{
+        "email": "zoo@gmail.com",
+        "password": "12345678"
+    }
+}
